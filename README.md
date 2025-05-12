@@ -2,6 +2,6 @@ Hi, I'm Harsha M – an aspiring AI Strategist currently pursuing B.Sc. Computer
 
 Connect with me:
 
-LinkedIn:linkedin.com/in/harsha-m-1175882b7
+LinkedIn: linkedin.com/in/harsha-m-1175882b7  
 
 

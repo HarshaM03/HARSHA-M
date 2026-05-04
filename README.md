@@ -1,101 +1,75 @@
-# 👋 Hi, I'm Harsha M
+# Harsha M
 
-🎓 B.Sc. Computer Science (AI & Data Science) Student  
-💡 Aspiring AI Engineer | Data Science Enthusiast | Web Developer  
-🚀 Passionate about building real-world AI solutions  
-
----
-
-## 🚀 About Me
-
-I am an aspiring AI Engineer currently pursuing my degree in Artificial Intelligence and Data Science. I enjoy building intelligent systems, solving real-world problems using machine learning, and developing interactive web applications.
-
-🔹 Strong interest in AI, ML, and Data Science  
-🔹 Experience in building real-time projects  
-🔹 Hackathon winner & active learner  
+Artificial Intelligence & Data Science Undergraduate  
+Aspiring Machine Learning Engineer | Software Developer  
 
 ---
 
-## 🛠️ Skills & Technologies
+## Profile
 
-### 💻 Programming Languages
-- Python 🐍
-- C++
-- SQL
+I am currently pursuing a B.Sc. in Computer Science (Artificial Intelligence and Data Science). My focus is on building practical machine learning solutions and developing scalable applications that solve real-world problems.
 
-### 🌐 Web Development
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
-
-### 📊 Data Science & AI
-- Machine Learning
-- Data Analysis
-- NLP (Basics)
-- Pandas, NumPy, Scikit-learn
-
-### 📈 Visualization Tools
-- Power BI
-- Tableau
-
-### 🛢️ Database
-- MySQL
-- DBMS
+I have hands-on experience in machine learning, data analysis, and web development, along with exposure to building end-to-end projects.
 
 ---
 
-## 🔥 Projects
+## Technical Skills
 
-### 📰 Fake News Detection System
-- Built using Machine Learning & NLP techniques  
-- Used TF-IDF & PassiveAggressiveClassifier  
-- Detects whether news is REAL or FAKE  
+**Programming Languages**  
+Python, C++, SQL  
 
-### 🤖 AI Interview Simulator (Ongoing)
-- Aptitude Test + Technical + HR Interview System  
-- Resume Analysis + Career Guidance  
-- Built using AI + Web Tech  
+**Machine Learning & Data Science**  
+Scikit-learn, Pandas, NumPy, NLP (Basics), Data Preprocessing  
 
-### ✋ Gesture Controlled System
-- Control YouTube using hand gestures  
-- Built using OpenCV & MediaPipe  
+**Web Development**  
+HTML, CSS, JavaScript, React.js, Tailwind CSS  
 
----
+**Data Visualization**  
+Power BI, Tableau  
 
-## 🏆 Achievements
-
-🥇 1st Prize – CTPCR Hackathon  
-🥇 1st Prize – INSPIRA Hackathon  
-🎯 Participated – SIH Hackathon 2024  
+**Database**  
+MySQL, DBMS  
 
 ---
 
-## 📜 Certifications
+## Projects
 
-✔️ Applied Generative AI – Infosys  
-✔️ Artificial Intelligence Foundation – Infosys  
+**Fake News Detection System**  
+Developed a machine learning model to classify news articles as real or fake using TF-IDF and classification algorithms.
 
----
+**AI Interview Simulator (In Progress)**  
+Designing an AI-based system that simulates aptitude, technical, and HR interview rounds with resume analysis and feedback.
 
-## 📈 GitHub Stats
-
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaM03&show_icons=true&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-🔗 LinkedIn: https://linkedin.com/in/harsha-m-1175882b7  
-📧 Email: (Add your email here)
+**Gesture-Controlled System**  
+Built a computer vision-based application to control media playback using hand gestures with OpenCV and MediaPipe.
 
 ---
 
-## 🎯 Career Goal
+## Achievements
 
-To become a skilled AI Engineer and contribute to innovative projects in Machine Learning, Data Science, and Software Development.
+- First Place – CTPCR Hackathon  
+- First Place – INSPIRA Hackathon  
+- Participant – Smart India Hackathon 2024  
 
 ---
 
-⭐ *“Turning ideas into intelligent solutions.”*
+## Certifications
+
+- Applied Generative AI – Infosys  
+- Artificial Intelligence Foundation – Infosys  
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/harsha-m-1175882b7  
+Email: harshamanikandan7623@gmail.com 
+
+---
+
+## Objective
+
+To begin my career as a Machine Learning Engineer or Software Developer, contributing to impactful projects while continuously improving my technical and problem-solving skills.
+
 
 

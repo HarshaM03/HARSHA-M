@@ -7,7 +7,7 @@ Aspiring Machine Learning Engineer | Software Developer
 
 ## Profile
 
-I am currently pursuing a B.Sc. in Computer Science (Artificial Intelligence and Data Science). My focus is on building practical machine learning solutions and developing scalable applications that solve real-world problems.
+A recent graduate of B.Sc. in Computer Science (Artificial Intelligence and Data Science). My focus is on building practical machine learning solutions and developing scalable applications that solve real-world problems.
 
 I have hands-on experience in machine learning, data analysis, and web development, along with exposure to building end-to-end projects.
 
